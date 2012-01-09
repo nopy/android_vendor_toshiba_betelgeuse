@@ -24,6 +24,7 @@ PRODUCT_COPY_FILES += \
  vendor/toshiba/betelgeuse/proprietary/lib/libasound.so:system/lib/libasound.so \
  vendor/toshiba/betelgeuse/proprietary/lib/libaudio.so:system/lib/libaudio.so \
  vendor/toshiba/betelgeuse/proprietary/lib/liba2dp.so:system/lib/liba2dp.so \
+ vendor/toshiba/betelgeuse/proprietary/lib/libardrv_dynamic.so:system/lib/libardrv_dynamic.so \
  vendor/toshiba/betelgeuse/proprietary/lib/libaudiopolicy.so:system/lib/libaudiopolicy.so \
  vendor/toshiba/betelgeuse/proprietary/lib/libcamera.so:system/lib/libcamera.so \
  vendor/toshiba/betelgeuse/proprietary/lib/libcgdrv.so:system/lib/libcgdrv.so \
